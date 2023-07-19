@@ -4,6 +4,8 @@ var fs = require('fs');
 var url = require('url');
 var qs = require('querystring');
 
+//what the fuck now?
+
 var template = require('./lib/template.js');
 var db = require('./lib/db.js');
 var topic = require('./lib/topic.js');
